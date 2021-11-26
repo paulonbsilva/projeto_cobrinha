@@ -1,4 +1,4 @@
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a Jogo da Cobrinha! 
+Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer o Jogo da Cobrinha! 
 
 ### Os requisitos são:
 
